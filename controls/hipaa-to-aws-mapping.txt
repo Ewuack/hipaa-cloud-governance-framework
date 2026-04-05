@@ -1,0 +1,24 @@
+HIPAA → AWS Control Mapping
+
+1. Access Control (164.312(a))
+   - AWS IAM Roles
+   - IAM Policies
+   - MFA Enforcement
+   - AWS SSO
+
+2. Audit Controls (164.312(b))
+   - CloudTrail Logging
+   - CloudWatch Logs
+   - GuardDuty Findings
+   - S3 Access Logs
+
+3. Integrity Controls (164.312(c))
+   - S3 Versioning
+   - RDS Automated Backups
+   - AWS KMS Encryption
+
+4. Transmission Security (164.312(e))
+   - TLS 1.2+
+   - VPC Security Groups
+   - PrivateLink
+   - VPN / Direct Connect
