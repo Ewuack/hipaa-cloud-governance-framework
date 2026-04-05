@@ -1,0 +1,9 @@
+HIPAA IAM Governance Framework
+
+- Enforce MFA for all users
+- Use IAM Roles instead of long-term credentials
+- Apply least privilege policies
+- Rotate access keys every 90 days
+- Enable CloudTrail for IAM activity logging
+- Use AWS SSO for centralized identity
+- Restrict console access where possible
