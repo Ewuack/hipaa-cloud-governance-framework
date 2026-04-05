@@ -1,0 +1,9 @@
+AWS Config Rules for HIPAA Compliance
+
+- s3-bucket-server-side-encryption-enabled
+- rds-storage-encrypted
+- cloudtrail-enabled
+- iam-password-policy
+- restricted-ssh
+- vpc-flow-logs-enabled
+- rds-backup-enabled
