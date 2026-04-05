@@ -1,0 +1,11 @@
+AWS Encryption Strategy (HIPAA-Aligned)
+
+- Use AWS KMS for all encryption keys
+- Enable encryption at rest for:
+  - S3
+  - RDS
+  - EBS
+  - DynamoDB
+- Enforce TLS 1.2+ for data in transit
+- Use CMKs for PHI-related workloads
+- Enable automatic key rotation
