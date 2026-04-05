@@ -1,0 +1,18 @@
+{
+  "widgets": [
+    {
+      "type": "metric",
+      "properties": {
+        "metrics": [
+          ["AWS/CloudTrail", "EventsDelivered"],
+          ["AWS/GuardDuty", "Findings"],
+          ["AWS/Config", "ComplianceSummary"]
+        ],
+        "period": 300,
+        "stat": "Sum",
+        "region": "us-west-2",
+        "title": "HIPAA Compliance Monitoring Dashboard"
+      }
+    }
+  ]
+}
