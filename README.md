@@ -44,10 +44,10 @@ hipaa-cloud-governance-framework/
 
 | Metric | Before | After | Impact |
 |--------|--------|-------|--------|
-| Audit Prep Time | 6 weeks manual | < 2 weeks automated | **-70% reduction** |
+| Audit Prep Time | 6 weeks manual | under 2 weeks automated | **-70% reduction** |
 | Compliance Evidence Collection | Manual/quarterly | Automated/continuous | **Real-time visibility** |
 | External Audit Findings | 3-5 per cycle | 0 findings | **Clean audit record** |
-| Engineering Hours per Audit | 200+ hours | < 60 hours | **140+ hours reclaimed** |
+| Engineering Hours per Audit | 200+ hours | under 60 hours | **140+ hours reclaimed** |
 | Policy Drift Detection | Monthly manual review | Real-time automated | **Instant remediation** |
 
 ---
